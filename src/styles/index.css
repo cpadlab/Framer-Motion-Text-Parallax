@@ -1,0 +1,21 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer utilities {
+    .text-stroke {
+        -webkit-text-stroke: 1px white;
+    }
+}  
+
+@layer components {
+
+    .text-style {
+        @apply relative leading-none text-white uppercase font-sans font-bold text-[4rem] sm:text-[6rem] lg:text-[8rem] text-nowrap
+    }
+
+    .text-stroke-style {
+        @apply text-black text-stroke font-sans
+    }
+
+}
