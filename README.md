@@ -1,6 +1,4 @@
 # Text Parallax with Framer Motion
-
-# JQuery Mask Entry Animation
  
 Implementation of a scrolling parallax text using Framer Motion and React.
 
