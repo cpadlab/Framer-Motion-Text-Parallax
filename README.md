@@ -4,13 +4,13 @@
  
 Implementation of a scrolling parallax text using Framer Motion and React.
 
-Read blog post: [Medium/cpadlab](https://medium.com/@cpadlab)
+Read blog post: [Medium/cpadlab](https://medium.com/@cpadlab/text-parallax-with-framer-motion-a724d1ce85d0)
 
 ## Requirements
 
-- [Framer Motion](https://jquery.com/)
-- [React](https://jquery.com/)
-- [TailwindCSS](https://jqueryui.com/)
+- [Framer Motion]()
+- [React]()
+- [TailwindCSS]()
 
 > [!NOTE]  
 > You can find a pre-built in version in the /dist directory
@@ -19,7 +19,8 @@ Read blog post: [Medium/cpadlab](https://medium.com/@cpadlab)
 
 ```bash
 git clone https://github.com/cpadlab/Framer-Motion-Text-Parallax
-cd Framer-Motion-Text-Parallax && npm run dev
+cd Framer-Motion-Text-Parallax
+npm install && npm run dev
 ```
 
 ## Gallery
